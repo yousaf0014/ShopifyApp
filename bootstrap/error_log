@@ -1,0 +1,16 @@
+[20-Oct-2020 06:24:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/busine57/fundsup.com.au/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/bootstrap/app.php on line 14
+[21-Oct-2020 07:02:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/busine57/fundsup.com.au/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/bootstrap/app.php on line 14
+[22-Oct-2020 13:18:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/busine57/fundsup.com.au/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/bootstrap/app.php on line 14
+[23-Oct-2020 17:30:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/busine57/fundsup.com.au/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/bootstrap/app.php on line 14

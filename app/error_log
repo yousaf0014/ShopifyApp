@@ -1,0 +1,4 @@
+[20-Oct-2020 06:08:52 Australia/Sydney] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/busine57/fundsup.com.au/app/User.php on line 7
+[21-Oct-2020 06:46:28 Australia/Sydney] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/busine57/fundsup.com.au/app/User.php on line 7
+[22-Oct-2020 13:21:32 Australia/Sydney] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/busine57/fundsup.com.au/app/User.php on line 7
+[23-Oct-2020 17:29:03 Australia/Sydney] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home/busine57/fundsup.com.au/app/User.php on line 7
