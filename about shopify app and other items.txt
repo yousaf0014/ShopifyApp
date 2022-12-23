@@ -1,0 +1,42 @@
+sudo chown -R daemon ./../../opt/lampp/htdocs/shopifyApp/storage/
+
+cron job
+ /usr/local/bin/php /home/busine57/fundsup.com.au/artisan schedule:run 1>> /dev/null 2>&1 
+
+Partner Name: Muhammad Yousaf(muhammadyousaf.0014@gmail.com)
+
+App name: OrderDeskOrderSync
+App key:b07bd92b00b3a4ef581a68bb2ba9a154
+App Secret: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
+
+Domain Details:
+https://s232.syd2.hostingplatform.net.au:2083/
+user:busine57
+pass:o1VGGhFN7x
+Domain name:fundsup.com.au
+Database user: busine57_orderdesksync
+database password:504OwaU^_Yt{
+Databse Name:busine57_orderdesksync
+
+
+
+
+Libraries
+https://gist.github.com/sparkweb/c6a5a21ab44a23589b9c
+https://apidocs.orderdesk.com/#order-note-properties
+https://app.orderdesk.me/settings/api
+https://gist.github.com/sparkweb/c6a5a21ab44a23589b9c
+https://shopify.dev/docs/admin-api/rest/reference/events/webhook
+https://shopify.dev/docs/admin-api/access-scopes
+https://accounts.shopify.com/lookup?rid=5ca90532-8c96-4237-83f1-40210c1dee8b
+https://github.com/osiset/laravel-shopify/wiki/Creating-Webhooks
+https://github.com/osiset/laravel-shopify/wiki/Installation
+
+
+Order Desk store ID:26603
+Order Desk store API KEY:kG64qBKRAcXdnFUoNCsMBc4XT9NERj t7Wpw5AnoHAxwa2Yt7UU
+
+
+https://www.orderdesk.com/
+username:n.samad@custombrands.com.au
+password:UKHgkUi9wjf

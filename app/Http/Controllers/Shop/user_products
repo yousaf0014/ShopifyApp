@@ -1,0 +1,493 @@
+183 - 182
+SELECT *  FROM `attendence1` WHERE `zone` LIKE '%B3 Compactor Room Do%' AND `time` LIKE '%2021-02-12%'
+B3 Compactor Room Do%
+182
+
+
+47k each karachi to istanbol
+
+keyword delete option
+category delete
+color to help icon
+
+
+
+
+79625  Turkish air
+73731
+
+
+https://broneering.mfa.ee/en/
+
+user_products
+	
+id
+admin_product_id
+shopify_product_id
+price
+price_margin
+title
+description
+new-sku
+
+
+========
+user_prodcut_attributes
+
+user_product_id
+prduct_attribute_values
+group_id
+ 
+0345-9227202  Muhammad Ali
+================
+user_product_printing_options
+user_product_id
+printing_group_id
+printing_option
+artwork
+shirt_design
+created_at
+
+
+Note:Note:Currency is not showing correct in shopify store
+International currency option should be given
+Add in Product
+
+
+
+select
+ prdocut
+
+then select attributes for product attributes
+
+
+
+EY
+
+
+
+
+Import orders
+Prodcut SKU(partner sku)
+Shipping address,
+how to make order groups
+
+ul_custome_collection
+curl_setopt($ch, CURLOPT_REFERER, 'https://backend.writemeai.com');
+
+
+
+
+
+
+then select printing attributes and here we need design images
+
+
+
+
+pick user active plans
+
+get difference 
+sum them and send to 
+user
+
+
+<div id="wc_review_section" class="wc_review_main_content" data-url="{{ shop.url }}" data-handle="{{ product.handle }}" data-limit="0"></div><br>
+==========
+
+(Turkmanistan)==========
+
+===================================
+ 1 = 1.359111 = 
+ 1 = 159.600254
+
+
+ 1056.95
+
+ 
+------------------------------------------------------------------
+shopify order id
+order created 
+items with us
+
+country of the order
+name
+payment 
+status
+------------------------------------------------------------
+
+
+Order Summery
+order details
+
+status
+total cost
+items count
+order date
+
+
+then shipping info
+Order shipping info
+name
+address
+address 2
+country
+phone
+email
+zip
+city country
+
+
+then come the product inform from our system(user prodcut details with art work and images and other things)
+
+
+then comes the status change screen 
+
+
+then come images and its urls (art and design images with urls)
+
+then come ths order billing details 
+item and its delivry charges will be included in it
+
+
+
+==================================
+
+ordershipment charges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+id
+user_product_id
+type (default,prdcut_design,art_image)
+image_path
+created_at
+updated_at
+
+==========================                        ============================
+Order Items
+Order Payments
+Order shipping
+=======================================================================================
+order_items
+
+id
+order_id
+title
+sku
+name
+quantity
+attributes
+parent_product_id
+shopify_itme_id
+admin_product_id
+
+=======================================================================================
+
+shop 
+code as password
+domain
+email
+currency
+type ->shop
+
+
+created_at
+updated_at
+deleted_at
+
+
+
+
+
+var myHeaders = new Headers();
+    myHeaders.append("Authorization", "Bearer " + getToken());
+    myHeaders.append("accept", "application/json");
+
+    var formdata = new FormData();
+    formdata.append("keyword", value);
+
+    var requestOptions = {
+      method: "POST",
+      headers: myHeaders,
+==============================================================================================
+
+
+
+yousaf Last name: Samad Email ID: yousaf+01@logicso.tech Password: Change password Phone Number: 0368000555 Account type: Business Upgrade to Pro Account ID: F28B7L5USRPGS Status: Verified Country: AU
+
+
+HE2PGFX9L6FMYUH3
+========================================================================================
+
+For admin show currency symbol
+
+Admin: add colors, with images
+
+ Clip Art  == Artwork
+
+ Art work on light shirt, art work on dark shirt
+
+
+ 
+Payment status with invoice for admin - send email with invoice and order id 
+also keep in the system for view option
+
+
+
+"cartalyst/stripe-laravel": "^11.0"
+
+
+https://stripe.com/docs/payments/save-and-reuse#web-setup
+
+https://cartalyst.com/manual/stripe/2.0
+https://cartalyst.com/manual/stripe-laravel/11.x#usage
+https://stripe.com/docs/payments/accept-a-payment?integration=elements
+{…}
+​
+setupIntent: {…}
+​​
+cancellation_reason: null
+​​
+client_secret: "seti_1I1mpVHRijjqlQmNtBw4dDxE_secret_Id2vaFrwhIlQthuUIYVx3YCuqbyZuy4"
+​​
+created: 1608789461
+​​
+description: null
+​​
+id: "seti_1I1mpVHRijjqlQmNtBw4dDxE"
+​​
+last_setup_error: null
+​​
+livemode: false
+​​
+next_action: null
+​​
+object: "setup_intent"
+​​
+payment_method: "pm_1I1mprHRijjqlQmN5caYlPlC"
+​​
+payment_method_types: (1) […]
+​​​
+0: "card"
+​​​
+length: 1
+​​​
+<prototype>: Array []
+​​
+status: "succeeded"
+​​
+usage: "off_session"
+​​
+<prototype>: Object { … }
+​
+<prototype>: Object { … }
+addCard:397:23
+
+
+operat
+some thing they put for raisha ka liya now its already out
+
+agian problem in listing 
+
+21-
+26-
+06
+
+show payment data time on order payment  (Done)
+show payment histor index page (Done)
+Show notification on top  (Done)
+Make notification crud	(Done)
+Theend
+
+
+
+====================================
+
+'pending',
+'cancel',
+'payment',
+'approved',
+'in_process',
+'shipped',
+'complete'
+
+
+
+==============================
+
+where we add color, add option to select artwork type(light or dark)
+Shipment
+and other parts?
+
+
+
+03224543433
+
+Aus: 10% + 
+Billing address for the store (customer + billing address)
+
+
+cancel all issue
+
+
+
+
+Inventory changes are still remaining for edit, file uploads
+
+
+========================================
+
+
+Session: Localstorage  can leack data // cookie is better to use
+ 
+2556783
+
+========================================================
+
+
+PDF
+
+
+0344
+
+100300/2 = 50150
+20600/2 = 10300
+
+10150 =150 + 420 +200
+
+
+if key == "print_url_0" OR  key == "print_url_1" OR key == "print_url_2" || key == "print_url_4" || key == "print_url_5" 
+
+OR  key == "print_mockup_1" OR key == "print_mockup_2" || key == "print_mockup_4" || key == "print_mockup_5"
+
+
+
+2 shows
+3 -4 socks
+underware - 4
+2 tights
+3-4 paints
+4 bunyan -  long sleaves
+4-6 shirts
+1-2 jacket
+1 coat
+cap 
+mafler
+Masks
+Roomal or safa
+tooth past/brush  -kangi - nailcutter
+Medecine / emegency
+Cigrates
+
+travel Documents (passport/tickets) / Crona Testo
+Applay Document (all documents, forms,fees,experience latters, supporting documents)
+
+Amounts(Lira,Euro)
+
+
+====================================
+
+Database change in user, type and 2 more fields  (done)
+Login controller (Done)
+Register Controller (Done)
+Register View(done)
+
+user model (DOne)
+Order Model (Done)
+OrderDeskOrderItem Model  (Done)
+HomeController (Done)
+
+
+welcomeorderdesk view  (Done)
+Customer folder payment index.blade (Done)
+
+
+Router
+Middelware
+karnel 
+
+CheckApiHeader.php  (Done)
+BaseController.php  (Done)
+UserController.php (Done)
+Api Router
+
+change type in order table and add option 'order_desk' (Done)
+
+Api router 	(Done)
+API folder in controllers (Done)
+
+2 table for orderDeskOrderItem/Attibute  (Done)
+AS-5051
+qqserrrre
+Customer PaymentController, 	
+Shop Payment Controller
+
+customer order controller,
+shop order controller
+
+
+
+
+/home/yousaf/Android/Sdk
+
+
+13+11
+14 -11 = 03
+
+
+
+
+
+'admin','client','view','user','sub_admin','shop','programmer'
+
+
+
+$2a$08$HfjrD6/DfOrDfzB4wv/WYubugVgWaTZsy0mbUkPdRvHu/o53yijyK
+
+
+
+$2a$08$D/I3gRk6G78.sUGqj.MWkOSR2wj/ssW4Qsju2JvaUkt5KIbioxHs2
+
+
+796
+
+
+
+Deleted 12.0-MOU-Draper-Startup-House International-Ltd.pdf.pdf/home/turboanchor/domains/hrms.turboanchor.com/tmp/php9V6oEJ
+-------uploads/12.0-MOU-Draper-Startup-House International-Ltd.pdf.pdf
+-------------uploaded
+----------uploads/12.0-MOU-Draper-Startup-House International-Ltd.pdf.pdf
+-------/home/turboanchor/domains/hrms.turboanchor.com/tmp/php9V6oEJ
+----------here
+
+
+
+
+https://signlauncher.io/backend/getPageNumber?token=b6db7251e-1624965485520&secret=abc1&time=16%3A21
+
+
+
+
+
+
+============================================
+19 upgraded to laravel 7
+26, Users, Act As, Building, Admin Dashboard,Customer Dashboard,

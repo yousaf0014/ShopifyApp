@@ -1,0 +1,4 @@
+order id,sku,quantity,attributes,order date,email,first name,last name,address1,address2,phone,city,zip,province,country,company,country code,province code
+1,Gr123-8,2,"size:XXL,color:Black","12-04-2020 10:10:10","muhammadyousaf.0014@gmail.com",Muhammad,Yousaf,"house#506,shahbaz block"," Mustafa town","03434011330",lahore,54000,Punjab,Pakistan,Lagicso,PK,
+2,Gr123-7,1,"size:L,color:Black","10-12-2020 12:10:09","muhammadyousaf.0014@gmail.com",Muhammad,Yousaf,"house#506,shahbaz block"," Mustafa town","03434011330",lahore,54000,Punjab,Pakistan,Lagicso,PK,
+2,Gr123-8,2,"size:L,color:Black","12-04-2020 10:10:10","muhammadyousaf.0014@gmail.com",Muhammad,Yousaf,"house#506,shahbaz block"," Mustafa town","03434011330",lahore,54000,Punjab,Pakistan,Lagicso,PK,

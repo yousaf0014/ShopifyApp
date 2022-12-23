@@ -1,0 +1,216 @@
+[20-Oct-2020 06:08:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/queue.php on line 16
+[20-Oct-2020 06:10:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/mail.php on line 19
+[20-Oct-2020 06:12:18 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/hashing.php on line 32
+[20-Oct-2020 06:12:48 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/filesystems.php on line 16
+[20-Oct-2020 06:13:22 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/logging.php on line 20
+[20-Oct-2020 06:14:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/database.php on line 18
+[20-Oct-2020 06:14:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/session.php on line 21
+[20-Oct-2020 06:22:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/shopify-app.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/shopify-app.php on line 12
+[20-Oct-2020 06:25:47 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/app.php on line 16
+[20-Oct-2020 06:26:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/cache.php on line 21
+[20-Oct-2020 06:26:17 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/services.php on line 18
+[20-Oct-2020 06:26:42 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/broadcasting.php on line 18
+[20-Oct-2020 06:27:57 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/busine57/fundsup.com.au/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/view.php on line 17
+[21-Oct-2020 06:43:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/broadcasting.php on line 18
+[21-Oct-2020 06:44:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/logging.php on line 20
+[21-Oct-2020 06:46:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/queue.php on line 16
+[21-Oct-2020 06:48:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/filesystems.php on line 16
+[21-Oct-2020 06:49:59 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/database.php on line 18
+[21-Oct-2020 06:56:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/mail.php on line 19
+[21-Oct-2020 06:56:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/session.php on line 21
+[21-Oct-2020 06:56:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/cache.php on line 21
+[21-Oct-2020 06:57:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/services.php on line 18
+[21-Oct-2020 06:57:29 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/app.php on line 16
+[21-Oct-2020 06:58:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/hashing.php on line 32
+[21-Oct-2020 07:01:30 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/busine57/fundsup.com.au/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/view.php on line 17
+[21-Oct-2020 07:02:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/shopify-app.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/shopify-app.php on line 12
+[22-Oct-2020 13:00:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/mail.php on line 19
+[22-Oct-2020 13:04:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/cache.php on line 21
+[22-Oct-2020 13:04:07 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/services.php on line 18
+[22-Oct-2020 13:08:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/shopify-app.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/shopify-app.php on line 12
+[22-Oct-2020 13:08:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/session.php on line 21
+[22-Oct-2020 13:09:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/logging.php on line 20
+[22-Oct-2020 13:10:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/hashing.php on line 32
+[22-Oct-2020 13:11:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/broadcasting.php on line 18
+[22-Oct-2020 13:16:06 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/database.php on line 18
+[22-Oct-2020 13:21:02 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/app.php on line 16
+[22-Oct-2020 13:21:37 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/queue.php on line 16
+[22-Oct-2020 13:23:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/filesystems.php on line 16
+[22-Oct-2020 13:24:32 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/busine57/fundsup.com.au/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/view.php on line 17
+[23-Oct-2020 17:20:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/busine57/fundsup.com.au/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/view.php on line 17
+[23-Oct-2020 17:23:03 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/filesystems.php on line 16
+[23-Oct-2020 17:23:34 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/logging.php on line 20
+[23-Oct-2020 17:25:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/cache.php on line 21
+[23-Oct-2020 17:25:38 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/services.php on line 18
+[23-Oct-2020 17:27:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/database.php on line 18
+[23-Oct-2020 17:27:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/hashing.php on line 32
+[23-Oct-2020 17:28:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/app.php on line 16
+[23-Oct-2020 17:29:08 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/queue.php on line 16
+[23-Oct-2020 17:36:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/shopify-app.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/shopify-app.php on line 12
+[23-Oct-2020 17:37:36 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/session.php on line 21
+[23-Oct-2020 17:38:04 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/mail.php on line 19
+[23-Oct-2020 17:38:33 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/broadcasting.php on line 18
+[24-Oct-2020 18:11:58 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/shopify-app.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/shopify-app.php on line 12
+[24-Oct-2020 18:19:55 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/busine57/fundsup.com.au/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/busine57/fundsup.com.au/config/mail.php on line 19
